@@ -1,4 +1,4 @@
-# tidy_data
+# README
  R script called run_analysis.R that does the following.
 
 Merges the training and the test sets to create one data set.
