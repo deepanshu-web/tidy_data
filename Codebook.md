@@ -1,4 +1,7 @@
-# Activity labels
+# Codebook
+
+
+## Activity labels
 
 1 WALKING
 2 WALKING_UPSTAIRS
